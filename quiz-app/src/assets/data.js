@@ -1,0 +1,42 @@
+export const data = [
+    {
+      question: "Qual é o nome da primeira região de genshin?",
+      option1: "liyue",
+      option2: "inazuma",
+      option3: "Mondstadt",
+      option4: "fontaine",
+      ans: 3,
+    },
+    {
+      question: "Qual a moeda principal do jogo?",
+      option1: "Primogemas",
+      option2: "Mora",
+      option3: "selos",
+      option4: "Gemas Anemo",
+      ans: 2,
+    },
+    {
+      question: "Quem é o deus do vento em Mondstadt?",
+      option1: "Diluc",
+      option2: "Jean",
+      option3: "Venti",
+      option4: "Bennett",
+      ans: 3,
+    },
+    {
+      question: "Qual é o nome do irmão ou irmã gêmea que o jogador controla no início do jogo?",
+      option1: "Kamisato Ayato e Kamisato Ayaka",
+      option2: "Jean e Barbara",
+      option3: "Kaeya e Diluc ",
+      option4: "Lumine e Aether",
+      ans: 4,
+    },
+    {
+      question: "Qual é o nome da criatura pequena que acompanha o jogador e ajuda em combate e exploração?",
+      option1: "Seelia",
+      option2: "Paimon",
+      option3: "Comida de emergencia",
+      option4: "Fatui",
+      ans: 2,
+    },
+  ];
